@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # 👋 Bienvenue sur mon GitHub !
 
@@ -6,9 +6,9 @@
 
 **Développeur web indépendant • Développeur C# • Créateur de Drastal Online**
 
-Passionné par la programmation, le développement web, les applications Windows et les jeux vidéo.
+Passionné par la programmation, les applications web, le développement logiciel et les jeux vidéo.
 
-[🌐 WebAlex Solutions](https://www.webalexsolutions.fr) · [🎮 Drastal Online](https://www.drastalonline.fr) · [👤 Mes projets GitHub](https://github.com/Alexoune001?tab=repositories)
+[🌐 WebAlex Solutions](https://www.webalexsolutions.fr) · [🎮 Drastal Online](https://www.drastalonline.fr) · [🚀 AlexouneProjects](https://github.com/AlexouneProjects)
 
 </div>
 
@@ -20,29 +20,29 @@ Salut ! Moi, c'est **Alexoune001** 👋
 
 Je suis développeur web indépendant et passionné d'informatique depuis de nombreuses années.
 
-J'aime créer des applications, développer mes propres outils, expérimenter différentes technologies et donner vie à mes idées.
+J'aime concevoir des applications, créer mes propres outils, développer des jeux vidéo et expérimenter différentes technologies.
 
-Mon travail et mes projets personnels s'articulent principalement autour de trois univers :
+Mes activités s'articulent autour de trois univers :
 
-- 🌐 **Le développement web**, à travers mon entreprise WebAlex Solutions.
-- 🎮 **Le développement de jeux vidéo**, notamment avec mon ORPG Drastal Online.
-- 🖥️ **Le développement logiciel**, principalement avec C# et .NET.
+- 🌐 **Le développement web professionnel**, à travers mon entreprise WebAlex Solutions.
+- 🎮 **Le développement de jeux vidéo**, avec mon projet Drastal Online.
+- 🖥️ **Les projets personnels et expérimentations**, regroupés notamment dans AlexouneProjects.
 
-J'accorde une grande importance à la stabilité, à la qualité du code, à la sécurité et à l'évolution progressive de mes projets.
+J'accorde une grande importance à la stabilité, à la qualité du code, à la sécurité et à la maintenabilité des projets.
 
 ---
 
-## 🚀 Mes univers de développement
+## 🚀 Mes principaux projets
 
 ### 🎮 Drastal Online
 
-[![Drastal Online](https://img.shields.io/badge/Drastal_Online-Jeu_ORPG_2D-9A732C?style=for-the-badge)](https://www.drastalonline.fr)
+[![Drastal Online](https://img.shields.io/badge/Drastal_Online-ORPG_2D-9A732C?style=for-the-badge)](https://www.drastalonline.fr)
 
 **Drastal Online** est mon projet de jeu vidéo indépendant : un ORPG 2D médiéval-fantasy, entièrement gratuit et francophone.
 
-Je travaille sur son univers, son gameplay, ses systèmes techniques, son client, son serveur et les outils nécessaires à son développement.
+Je développe ses différentes composantes techniques et fonctionnelles, notamment le client, le serveur, les outils d'édition, les mécaniques de gameplay et les fonctionnalités associées au portail web.
 
-Le projet évolue progressivement au fil de ses différentes phases Alpha.
+Le projet évolue progressivement au fil de ses phases Alpha.
 
 **Technologies principales :** C#, .NET, MonoGame et MySQL.
 
@@ -55,24 +55,46 @@ Le projet évolue progressivement au fil de ses différentes phases Alpha.
 
 **WebAlex Solutions** est mon activité professionnelle de développeur web indépendant.
 
-Je développe des sites et applications web sur mesure, des interfaces d'administration, des espaces de gestion et des fonctionnalités adaptées aux besoins de chaque projet.
+Je conçois et développe des sites internet et des applications web sur mesure, avec des fonctionnalités adaptées aux besoins de chaque projet.
 
-**Technologies principales :** PHP, Symfony, MySQL, JavaScript, HTML, CSS et Bootstrap.
+Je réalise également des prestations de maintenance et d'évolution d'applications web existantes.
+
+**Technologies principales :** PHP, Symfony, MySQL, HTML, CSS, JavaScript et Bootstrap.
 
 - 🌍 [Site officiel](https://www.webalexsolutions.fr)
 - 📂 [Organisation GitHub WebAlexSolutions](https://github.com/WebAlexSolutions)
 
-### 🖥️ Logiciels et projets personnels
+### 🖥️ Mes outils internes
 
-En parallèle, j'aime développer mes propres applications et outils informatiques.
+Je développe également plusieurs outils pour mes propres besoins techniques.
 
-Parmi mes projets figurent notamment :
+Parmi eux :
 
-- **WebAlex Browser** : navigateur web personnel sous Windows, développé avec C#, .NET, Windows Forms et WebView2.
-- **WebAlex Local Server** : environnement de développement web local pour Windows.
-- **Divers utilitaires et prototypes** : logiciels, bots, applications web et expérimentations techniques.
+- **WebAlex Browser** : navigateur web personnel sous Windows, développé en C#, .NET, WinForms et WebView2.
+- **WebAlex Local Server** : logiciel Windows facilitant la gestion d'environnements de développement web locaux.
+- **WebAlex HomeLab** : projet consacré à mes expérimentations et environnements techniques.
 
-Ces projets sont développés selon mes besoins et mes envies. Ils ne constituent pas nécessairement des logiciels commercialisés ou des prestations proposées à mes clients.
+Ces projets sont regroupés dans **[WebAlexSolutions](https://github.com/WebAlexSolutions)**, car ils sont associés à mon environnement professionnel et à mes outils internes.
+
+Ils ne constituent pas des prestations de développement logiciel proposées à mes clients.
+
+### 🚀 AlexouneProjects
+
+[![AlexouneProjects](https://img.shields.io/badge/AlexouneProjects-Projets_&_Archives-D49B35?style=for-the-badge)](https://github.com/AlexouneProjects)
+
+**AlexouneProjects** est mon espace consacré à mes expériences de développement, mes anciens projets, mes prototypes et mes archives.
+
+J'y conserve différents travaux réalisés au fil des années :
+
+- Anciens projets de jeux vidéo et moteurs.
+- Applications web et logiciels expérimentaux.
+- Projets d'apprentissage.
+- Anciennes versions de mes réalisations.
+- Outils et utilitaires personnels.
+
+Certains projets sont archivés, tandis que d'autres restent disponibles pour de nouvelles évolutions.
+
+📂 [Découvrir AlexouneProjects](https://github.com/AlexouneProjects)
 
 ---
 
@@ -84,20 +106,29 @@ Ces projets sont développés selon mes besoins et mes envies. Ils ne constituen
 | ⚙️ Back-end | PHP, Symfony |
 | 🗄️ Bases de données | MySQL |
 | 🖥️ Applications Windows | C#, .NET, Windows Forms |
-| 🎮 Développement de jeux | C#, MonoGame |
-| 🔧 Outils | Git, GitHub, Visual Studio, VS Code, PowerShell |
-| 🚀 Hébergement | Windows Server, Plesk, Gitea |
+| 🎮 Jeux vidéo | C#, MonoGame |
+| 🔧 Versionnement | Git, GitHub |
+| 🛠️ Développement | Visual Studio, VS Code, PowerShell |
+| 🚀 Infrastructure | Windows Server, Plesk, Gitea |
+
+Les outils et technologies employés varient selon les besoins et l'ancienneté des projets.
 
 ---
 
-## 🗂️ Organisation de mes projets
+## 🗂️ Organisation de mes dépôts GitHub
 
-J'utilise plusieurs organisations GitHub afin de séparer mes différentes activités.
+J'ai choisi de structurer mon compte GitHub afin de séparer clairement mes différentes activités.
 
 <details open>
-<summary><strong>🎮 DrastalOnline — Mon jeu vidéo</strong></summary>
+<summary><strong>🎮 DrastalOnline — Développement officiel de mon jeu</strong></summary>
 
-Organisation consacrée au développement de mon ORPG Drastal Online, de son site officiel et de ses outils techniques.
+Organisation dédiée au développement du jeu Drastal Online et de ses outils associés.
+
+Elle centralise notamment :
+- Le code source du jeu.
+- Son site officiel.
+- Les outils d'administration.
+- Les composants techniques associés.
 
 🔗 [Accéder à DrastalOnline](https://github.com/DrastalOnline)
 
@@ -106,40 +137,90 @@ Organisation consacrée au développement de mon ORPG Drastal Online, de son sit
 <details>
 <summary><strong>💼 WebAlexSolutions — Mon entreprise</strong></summary>
 
-Organisation regroupant mon activité de développement web, les projets clients, mes outils internes et mes expérimentations professionnelles.
+Organisation réservée aux activités professionnelles de WebAlex Solutions.
+
+Elle contient :
+- Le site web de l'entreprise.
+- Les projets clients.
+- Mes logiciels internes.
+- Mon environnement HomeLab.
+
+Les projets personnels, laboratoires et archives historiques sont conservés séparément.
 
 🔗 [Accéder à WebAlexSolutions](https://github.com/WebAlexSolutions)
 
 </details>
 
 <details>
-<summary><strong>🧪 Projets personnels et archives</strong></summary>
+<summary><strong>🧪 AlexouneProjects — Projets et archives</strong></summary>
 
-Je conserve également mes projets personnels, mes expérimentations techniques et d'anciens développements pour préserver leur historique et pouvoir les faire évoluer ultérieurement.
+Organisation personnelle regroupant :
+- Mes anciens développements.
+- Mes projets expérimentaux.
+- Mes prototypes et applications.
+- Mes archives techniques.
+- Certains projets susceptibles d'être repris ultérieurement.
 
-Ces projets sont organisés séparément de mes deux activités principales.
+🔗 [Accéder à AlexouneProjects](https://github.com/AlexouneProjects)
+
+</details>
+
+<details>
+<summary><strong>👤 Alexoune001 — Mon espace personnel</strong></summary>
+
+Mon profil personnel accueille son README de présentation ainsi qu'une sélection de projets indépendants de mes organisations.
+
+Cela me permet de conserver un espace simple et lisible, sans mélanger mes activités professionnelles, mon jeu et mes archives.
+
+Certains de ces projets sont privés.
 
 </details>
 
 ---
 
-## 🔒 À propos de mes dépôts GitHub
+## 💡 Ma façon de développer
 
-Tous mes projets ne sont pas publics.
+Je privilégie une approche progressive et structurée :
 
-Certains dépôts contiennent des applications personnelles, des projets clients, des outils internes ou des codes sources propriétaires.
+- Comprendre les besoins avant d'intervenir.
+- Préserver les fonctionnalités existantes.
+- Écrire du code compréhensible et maintenable.
+- Effectuer les corrections sans introduire de régressions.
+- Utiliser Git pour suivre les différentes évolutions.
+- Tester avant de valider les modifications.
+- Conserver les historiques et sauvegardes importants.
 
-**Les dépôts privés restent accessibles uniquement aux personnes autorisées.**
-
-Les projets rendus publics peuvent être consultés selon les conditions de leur licence respective.
+J'aime également apprendre de nouvelles technologies et revenir sur d'anciens projets pour mesurer leur évolution.
 
 ---
 
-## 💬 Me retrouver
+## 🔒 À propos de mes codes sources
 
-- 🌐 **Entreprise :** [WebAlex Solutions](https://www.webalexsolutions.fr)
-- 🎮 **Jeu vidéo :** [Drastal Online](https://www.drastalonline.fr)
-- 💻 **GitHub :** [Alexoune001](https://github.com/Alexoune001)
+Tous mes projets ne sont pas publics.
+
+Certains dépôts contiennent :
+- Des projets clients.
+- Des logiciels et outils internes.
+- Des applications personnelles.
+- Des sources propriétaires.
+- Des projets historiques conservés en archive.
+
+Les dépôts privés sont réservés aux personnes autorisées.
+
+Les dépôts publics peuvent être consultés selon les conditions de licence et de réutilisation propres à chaque projet.
+
+---
+
+## 🔗 Me retrouver
+
+| Espace | Lien |
+|---|---|
+| 👤 Mon profil GitHub | [Alexoune001](https://github.com/Alexoune001) |
+| 🎮 Mon jeu vidéo | [Drastal Online](https://www.drastalonline.fr) |
+| 🏰 Organisation du jeu | [DrastalOnline](https://github.com/DrastalOnline) |
+| 💻 Mon entreprise | [WebAlex Solutions](https://www.webalexsolutions.fr) |
+| 🏢 Organisation professionnelle | [WebAlexSolutions](https://github.com/WebAlexSolutions) |
+| 🚀 Mes projets et archives | [AlexouneProjects](https://github.com/AlexouneProjects) |
 
 ---
 
@@ -147,7 +228,7 @@ Les projets rendus publics peuvent être consultés selon les conditions de leur
 
 ### ✨ Du code, des projets et beaucoup d'idées !
 
-*Développer, apprendre, expérimenter et toujours chercher à faire mieux.*
+*Créer, développer, apprendre, expérimenter et toujours chercher à faire mieux.*
 
 **Alexoune001**
 
